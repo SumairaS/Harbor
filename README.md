@@ -1,2 +1,3 @@
 # Harbor
-Quick harbor for ubuntu
+
+def dockerfileContent = readFile('https://github.com/SumairaS/Harbor/Dockerfile-Alpine')
